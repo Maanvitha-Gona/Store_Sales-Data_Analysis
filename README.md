@@ -29,6 +29,6 @@ Excel (Store Data.xlsx)
  contains sales data for one year
 
 ## Results
-### Final Store_Data Analysis:
+### Final Store_Data Analysis.xlsx:
  An Interactive Dashboard for better understanding and analyzing.
 
