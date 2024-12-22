@@ -21,10 +21,12 @@ Designed and built a user-friendly dashboard to visualize key metrics and insigh
 Provides dynamic interaction for better understanding and decision-making.
 
 ## Tools and Technologies Used
-### Data Analysis: Excel (Store Data.xlsx)
+### Data Analysis:
+Excel (Store Data.xlsx)
 
 ## Dataset
- ### Store Data.xlsx, contains sales data for one year
+ ### Store Data.xlsx:
+ contains sales data for one year
 
 ## Results
 ### An Interactive Dashboard for better understanding and analyzing.
